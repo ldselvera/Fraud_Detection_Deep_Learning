@@ -10,8 +10,8 @@
  Deep Learning models for credit card fraud detection.
  The models include:
  
-Multilayer Perceptron (MLP)
+ Multilayer Perceptron (MLP)
 
-Convolutional Neural Networks (CNN)
+ Convolutional Neural Networks (CNN)
 
-Temporal Convolutional Networks Encoder-Decoder (TCN-ED)
+ Temporal Convolutional Networks Encoder-Decoder (TCN-ED)
